@@ -29,17 +29,6 @@ const styles = StyleSheet.create({
     textAlign: "center",
     margin: 8,
   },
-  details: {
-    flexDirection: "row",
-    justifyContent: "center",
-    alignItems: "center",
-    padding: 8,
-  },
-  detailItem: {
-    fontFamily: "open-sans",
-    marginHorizontal: 4,
-    fontSize: 12,
-  },
 });
 
 export default styles;
