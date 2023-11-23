@@ -65,7 +65,7 @@ NEmbark on a delightful culinary journey with Culinary Craft, a React Native app
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo]() Soon
+- [Live Demo](https://culinarycraft.netlify.app/)
 - [APK File](https://drive.google.com/file/d/1ZX22JB1QojKk-YqywjZb8IGSulJfz_q1/view?usp=sharing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
