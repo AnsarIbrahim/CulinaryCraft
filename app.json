@@ -22,10 +22,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ansaribrahim.CulinaryCraft"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "568772b8-c2c3-4311-9b11-27ac0379a601"
+      }
     }
   }
 }
